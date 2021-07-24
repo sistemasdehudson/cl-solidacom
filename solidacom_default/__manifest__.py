@@ -1,8 +1,8 @@
 {
-    'name': 'panelar',
+    'name': 'solidacom',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto panelar",
+    'summary': "Proyecto solidacom",
     'author': 'Sdeh',
     'depends': [
         'base',
@@ -17,7 +17,7 @@
     'limit_memory_hard': '760000000',
     'limit_time_cpu': '60',
     'limit_time_real': '120',
-    'dbfilter': 'citval_10-12-20',
+    #'dbfilter': 'citval_10-12-20',
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
