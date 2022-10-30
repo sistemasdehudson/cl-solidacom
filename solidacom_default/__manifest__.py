@@ -71,7 +71,9 @@
         'https://github.com/OCA/project-reporting -b 13.0',
         'https://github.com/OCA/purchase-workflow -b 13.0',
         'https://github.com/OCA/delivery-carrier -b 13.0',
-	    'https://github.com/OCA/sale-workflow -b 13.0',
+	'https://github.com/OCA/sale-workflow -b 13.0',
+	##Control de accesos
+	'https://github.com/itpp-labs/access-addons.git -b 13.0',
     ],
 
     'docker-images': [
